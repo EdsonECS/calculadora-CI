@@ -1,9 +1,6 @@
-#!/bin/bash
-
-echo "Executando teste"
-
-coverage run -m pytest test/test_core.py
-
-echo "Relatorio de cobertura"
-
-coverage report -m
+def multiplication(self):
+        return(self.value1 * self.value2)
+        value1=4
+        value2=4
+ return(4*4)  
+ 
